@@ -1,5 +1,5 @@
 # SoundCloudTrackWebScraper
-SoundCloud Track Webscraper made with the Beautiful Soup package.
+SoundCloud Track Webscraper made with the 'Beautiful Soup' package.
 
 #1 insert url into the url section
 #2 run the script
