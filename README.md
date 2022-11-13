@@ -1,5 +1,5 @@
 # SoundCloudTrackWebScraper
-Soundcloud Track Webscraper
+SoundCloud Track Webscraper
 
 #1 insert url into the url section
 #2 run the script
